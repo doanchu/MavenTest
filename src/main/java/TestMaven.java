@@ -3,6 +3,6 @@
  */
 public class TestMaven {
     public static void main(String[] args) {
-        
+
     }
 }
